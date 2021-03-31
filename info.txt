@@ -1,0 +1,4 @@
+Datos Registrados
+=================
+Nombres y Apellido......: julio mesicanomesicano
+Genero..................:  Masculino
